@@ -1,0 +1,10 @@
+datasets/
+*.jpg
+*.png
+*.pkl
+*.tif
+*.yaml
+*.csv
+*.zip
+*.geojson
+*.pt
